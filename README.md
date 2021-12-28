@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aishwaryrawat007
 - 👀 I’m interested in Front End application Development and different UI frameworks
-- 🌱 I’m currently learning React and Dart.
+- 🌱 I’m currently learning React and Dart and have expertise in Angular and Node JS.
 - 📫 How to reach me aishwaryrawat007@gmail.com
 
 <!---
